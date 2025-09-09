@@ -37,10 +37,10 @@
  - Delete individual chats with confirmation
  - Auto-scroll toggle (appears when scrolled up)
  - Keyboard shortcuts:
-  - Ctrl/Cmd + Enter - Send message
-  - Ctrl/Cmd + N - New chat
-  - Ctrl/Cmd + / - Toggle sidebar
-  - Ctrl/Cmd + S - Open settings
+   - Ctrl/Cmd + Enter - Send message
+   - Ctrl/Cmd + N - New chat
+   - Ctrl/Cmd + / - Toggle sidebar
+   - Ctrl/Cmd + S - Open settings
  - Model info display below input
  - Markdown table support
 
